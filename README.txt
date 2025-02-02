@@ -1,0 +1,6 @@
+1. [a] in8 (Chip)
+2. [b] iceKnives32 (Circuit)
+3. [c] prePlate33 (Logic)
+4. [d] soloH26 (Internet)
+5. [e] duSky24 (Web)
+6. [f] shAllow38 (Port)
