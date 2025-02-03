@@ -14,3 +14,5 @@
 + `(Port)`
 7. <ins>[g]</ins> __decEnter27__
 + `(Data)`
+8. <ins>[h]</ins> __sciLetter34__
++ `(Machine)`
