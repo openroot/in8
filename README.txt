@@ -4,3 +4,4 @@
 4. [d] soloH26 (Internet)
 5. [e] duSky24 (Web)
 6. [f] shAllow38 (Port)
+7. [g] decEnter27 (Data)
